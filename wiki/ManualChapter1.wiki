@@ -1,5 +1,3 @@
-#sidebar TableOfContents
-
 The Integrated Mechanisms Program (IMP) is a computer-aided design and analysis system which
 provides a precise, easily used, low cost capability for the simulation of mechanical systems.
 
